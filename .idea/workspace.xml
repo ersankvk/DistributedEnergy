@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80378caa-e132-4bef-ac49-33f50ac9b372" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80378caa-e132-4bef-ac49-33f50ac9b372" name="Changes" comment="Das Projekt wurde in weiten Teilen fertiggestellt: Alle Kernkomponenten (Producer, User, UsageService, PercentageService, StatisticsService, REST-API mit Spring Boot und GUI mit JavaFX) wurden grob implementiert und getestet. Die Datenübertragung über RabbitMQ sowie die Speicherung in PostgreSQL funktionieren wie geplant. Die REST-Schnittstelle liefert aktuelle Statistiken, die auch in der JavaFX-Oberfläche angezeigt werden können.  &#10;&#10;Obwohl aktuell nur die Teilabgabe erforderlich ist, haben wir als Gruppe bereits den Großteil des Gesamtprojekts umgesetzt. Es fehlen lediglich kleinere Optimierungen und UI-Verbesserungen. Das Projekt ist damit in einem weit fortgeschrittenen Zustand." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -40,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Teilabgabe",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -135,11 +138,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745257322055</updated>
-      <workItem from="1745257323669" duration="3696000" />
+      <workItem from="1745257323669" duration="4223000" />
     </task>
+    <task id="LOCAL-00001" summary="Das Projekt wurde in weiten Teilen fertiggestellt: Alle Kernkomponenten (Producer, User, UsageService, PercentageService, StatisticsService, REST-API mit Spring Boot und GUI mit JavaFX) wurden grob implementiert und getestet. Die Datenübertragung über RabbitMQ sowie die Speicherung in PostgreSQL funktionieren wie geplant. Die REST-Schnittstelle liefert aktuelle Statistiken, die auch in der JavaFX-Oberfläche angezeigt werden können.  &#10;&#10;Obwohl aktuell nur die Teilabgabe erforderlich ist, haben wir als Gruppe bereits den Großteil des Gesamtprojekts umgesetzt. Es fehlen lediglich kleinere Optimierungen und UI-Verbesserungen. Das Projekt ist damit in einem weit fortgeschrittenen Zustand.">
+      <option name="closed" value="true" />
+      <created>1745261563740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745261563740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Das Projekt wurde in weiten Teilen fertiggestellt: Alle Kernkomponenten (Producer, User, UsageService, PercentageService, StatisticsService, REST-API mit Spring Boot und GUI mit JavaFX) wurden grob implementiert und getestet. Die Datenübertragung über RabbitMQ sowie die Speicherung in PostgreSQL funktionieren wie geplant. Die REST-Schnittstelle liefert aktuelle Statistiken, die auch in der JavaFX-Oberfläche angezeigt werden können.  &#10;&#10;Obwohl aktuell nur die Teilabgabe erforderlich ist, haben wir als Gruppe bereits den Großteil des Gesamtprojekts umgesetzt. Es fehlen lediglich kleinere Optimierungen und UI-Verbesserungen. Das Projekt ist damit in einem weit fortgeschrittenen Zustand." />
+    <option name="LAST_COMMIT_MESSAGE" value="Das Projekt wurde in weiten Teilen fertiggestellt: Alle Kernkomponenten (Producer, User, UsageService, PercentageService, StatisticsService, REST-API mit Spring Boot und GUI mit JavaFX) wurden grob implementiert und getestet. Die Datenübertragung über RabbitMQ sowie die Speicherung in PostgreSQL funktionieren wie geplant. Die REST-Schnittstelle liefert aktuelle Statistiken, die auch in der JavaFX-Oberfläche angezeigt werden können.  &#10;&#10;Obwohl aktuell nur die Teilabgabe erforderlich ist, haben wir als Gruppe bereits den Großteil des Gesamtprojekts umgesetzt. Es fehlen lediglich kleinere Optimierungen und UI-Verbesserungen. Das Projekt ist damit in einem weit fortgeschrittenen Zustand." />
   </component>
 </project>
