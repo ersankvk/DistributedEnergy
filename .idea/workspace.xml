@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80378caa-e132-4bef-ac49-33f50ac9b372" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/api/DistributedEnergyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/api/EnergyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/gui/StatisticsGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/percentage/PercentageServiceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/producer/ProducerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/service/EnergyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/statistics/StatisticsServiceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/usage/UsageServiceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distributedenergy/user/UserApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -54,10 +45,54 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StatisticsGUI">
+    <configuration name="PercentageServiceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.distributedenergy.percentage.PercentageServiceApp" />
+      <module name="DistributedEnergy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.distributedenergy.percentage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.distributedenergy.producer.ProducerApp" />
+      <module name="DistributedEnergy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.distributedenergy.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.distributedenergy.gui.StatisticsGUI" />
+      <module name="DistributedEnergy" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\ersan\Downloads\openjfx-21.0.2_windows-x64_bin-sdk\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.distributedenergy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="DistributedEnergyFinal" />
       <method v="2">
@@ -78,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.PercentageServiceApp" />
+      <item itemvalue="Application.ProducerApp" />
+      <item itemvalue="Application.StatisticsGUI" />
+      <item itemvalue="Spring Boot.DistributedEnergyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StatisticsGUI" />
+        <item itemvalue="Application.ProducerApp" />
+        <item itemvalue="Application.PercentageServiceApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745257322055</updated>
-      <workItem from="1745257323669" duration="856000" />
+      <workItem from="1745257323669" duration="3696000" />
     </task>
     <servers />
   </component>
